@@ -79,11 +79,11 @@
 
 
 //6- en el siguiente arreglo[1,2,3,4,5,6,7] verifica si todos los numeros son mayores a 5
-// const numeros = [1,2,3,4,5,6,7]
+// const numeros2 = [1,2,3,4,5,6,7]
 
-// const result = numeros.find(x=> x<=5)
+// const result2 = numeros2.every(x=> x>5)
 
-// if (result === undefined) {
+// if (result2 === true) {
 //     console.log(`todos los numeros son mayores a 5`)
 // } else {
 //     console.log(`No todos los numeros son mayores a 5`)
